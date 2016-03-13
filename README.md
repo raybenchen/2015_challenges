@@ -1,5 +1,6 @@
 # CT Civic Hack Day 2015
-
+ 
+ 
 ## RSVP Lists
 * [Eventbrite](http://www.eventbrite.com/e/ct-civic-hack-day-2015-tickets-17099533164)
 * [Meetup](http://www.meetup.com/newhavenio/events/222897525/)
